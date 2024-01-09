@@ -1,0 +1,13 @@
+[package]
+name = "graphql-subscriptions"
+version = "0.0.0"
+edition = "2021"
+authors = ["mektigboy <mektigboy@protonmail.com>"]
+description = "A client for GraphQL subscriptions (WebSocket)"
+repository = "https://github.com/mektigboy/graphql-subscriptions-rs"
+license = "MIT"
+categories = ["api-bindings"]
+keywords = ["graphql", "subscriptions", "websocket"]
+readme = "README.md"
+
+[dependencies]
